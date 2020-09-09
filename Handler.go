@@ -4,6 +4,7 @@ import (
 	"net/http"
 )
 
+//
 // MapHandler will return an http.HandlerFunc (which also
 // implements http.Handler) that will attempt to map any
 // paths (keys in the map) to their corresponding URL (values
